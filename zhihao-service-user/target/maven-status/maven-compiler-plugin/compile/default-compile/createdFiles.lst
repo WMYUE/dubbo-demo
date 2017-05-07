@@ -1,0 +1,4 @@
+com/zhihao/miao/DubboProvider.class
+com/zhihao/miao/core/user/quartz/UserQuartz.class
+com/zhihao/miao/core/user/dao/UserDao.class
+com/zhihao/miao/api/user/service/impl/UserServiceImpl.class
